@@ -6,10 +6,5 @@ KiCad periodically saves copies of your work here, allowing you to
 recover from accidental changes or data loss.
 
 You can browse and restore previous versions through KiCad's
-File > Local History menu.
-
-To disable this feature:
-  Preferences > Common > Project Backup > Enable automatic backups
-
-This directory can be safely deleted if you no longer need the
-history, but doing so will permanently remove all saved snapshots.
+هذا التصميم صمم من اجل قياس قيمة درجة الحموضة بمكونات بسيطة بدلا من شراء اجهزة علي المدي قد تتلف اما هذا التصميم يمكن تغيير اي من البطارية او الميكروكنترولر لانه متحرك والكود ثابت 
+الكود مرفق ايضا.
